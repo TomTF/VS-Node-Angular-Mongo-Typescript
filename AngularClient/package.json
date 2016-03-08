@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"name": "ANGULARCLIENT",
+  "private": true,
+  "main": "App/app.js",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "angular": "1.5.0",
+    "angular-route": "1.5.0"
+  }
+}
